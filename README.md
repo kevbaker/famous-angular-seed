@@ -1,4 +1,4 @@
-# famous-angular-seed
+# Famous - Angular Seed Project
 
 ## Overview
 
